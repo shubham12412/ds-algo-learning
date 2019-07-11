@@ -9,9 +9,9 @@ https://www.geeksforgeeks.org/program-for-array-rotation-continued-reversal-algo
 ***Block swap algorithm***
 https://www.geeksforgeeks.org/block-swap-algorithm-for-array-rotation/
 
-***Search in rotated array***
+***Search in rotated array*** \
 https://leetcode.com/problems/search-in-rotated-sorted-array/ \
-https://leetcode.com/submissions/detail/242474800/ (direct binary search)
+https://leetcode.com/submissions/detail/242474800/ (direct binary search) \
 https://leetcode.com/submissions/detail/242451680/ (find pivot first)
 
 TODO : correctness
