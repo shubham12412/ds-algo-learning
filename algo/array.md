@@ -16,5 +16,7 @@ https://leetcode.com/submissions/detail/242451680/ (find pivot first)
 
 TODO : correctness
 
+https://www.geeksforgeeks.org/find-element-given-index-number-rotations/ ??? (ask)
+
 2) 
 
