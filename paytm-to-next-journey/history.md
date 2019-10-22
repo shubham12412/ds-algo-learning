@@ -16,3 +16,8 @@ spanning tree, bipartite matching
 
 https://www.youtube.com/watch?v=0PZJ5ENQBAw&list=PLRKxhQQOfTrk5G4hXakMSGSjjPVwBhNBZ&index=2
 
+
+Bus line bus stop - minimum bus change problem
+
+https://www.careercup.com/question?id=5763894541811712
+
