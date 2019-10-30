@@ -3,7 +3,7 @@
 
 ***most recently*** \
 ***last*** \
-***lasest***\
+***latest***\
 ***reverse*** \
 ***backtracking***
 
