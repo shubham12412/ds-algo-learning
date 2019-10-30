@@ -1,5 +1,8 @@
-keyword to keep in mind : ***most recently***, ***last**** 
+keyword to keep in mind : 
 
+***most recently*** \
+***last*** \
+***reverse*** 
 
 
 
