@@ -1,5 +1,5 @@
 
-### keyword to keep in mind : 
+### keywords to keep in mind : 
 
 ***most recently*** \
 ***last*** \
