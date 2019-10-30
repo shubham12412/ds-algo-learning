@@ -1,3 +1,8 @@
+keyword to keep in mind : ***most recently***, ***last**** 
+
+
+
+
 ***A stack or LIFO (last in, first out) is an abstract data type that serves as a collection of elements, with two principal operations: push, which adds an element to the collection, and pop, which removes the last element that was added***. In stack both the operations of push and pop takes place at the same end that is top of the stack.
 
 
