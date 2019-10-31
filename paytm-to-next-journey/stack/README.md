@@ -8,11 +8,13 @@
 ***backtracking***
 
 
-***function call*** \
+***function call (call stack)*** \
+***recursive function call*** \
 ***balance parenthesis*** \
 ***reverse word*** \
 ***undo operation*** \
-***back functionality in browser***
+***back functionality in browser*** \
+***dfs(depth first search)***
 
 -----------------------------------------------------------------------------------------------------------------
 
