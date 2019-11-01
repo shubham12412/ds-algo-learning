@@ -8,6 +8,8 @@
 ***backtracking***
 
 
+***pipe whose one end is closed and other is open***
+
 ***function call (call stack)*** \
 ***recursive function call*** \
 ***balance parenthesis*** \
