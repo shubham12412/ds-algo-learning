@@ -36,6 +36,8 @@ https://www.geeksforgeeks.org/stack-data-structure/
 
 1) https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/
 
+(new insight : using doubly linked list, remove smaller chunk of balanced parenthesis)
+
 2) https://www.geeksforgeeks.org/next-greater-element/
 
 
