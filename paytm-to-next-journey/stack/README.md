@@ -40,6 +40,8 @@ https://www.geeksforgeeks.org/stack-data-structure/
 
 => above thinking leads to one end tube (stack) (gather all unprocessed along the path in one end tube)
 
+=> (left parenthesis on stack represent no of left open bracket for which right bracket is not seen therefore instaed of stack we can used simply counter which represent no of left open braces)
+
 2) https://www.geeksforgeeks.org/next-greater-element/
 
 
