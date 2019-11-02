@@ -36,6 +36,8 @@ https://www.geeksforgeeks.org/stack-data-structure/
 
 1) https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/
 
+2) https://www.geeksforgeeks.org/next-greater-element/
+
 
 
 
