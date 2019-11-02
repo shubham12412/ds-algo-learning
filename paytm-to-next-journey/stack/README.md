@@ -43,8 +43,14 @@ https://www.geeksforgeeks.org/stack-data-structure/
 => (left parenthesis on stack represent no of left open bracket for which right bracket is not seen therefore instaed of stack we can used simply counter which represent no of left open braces)
 
 2) https://www.geeksforgeeks.org/next-greater-element/
+ 
+ https://www.geeksforgeeks.org/next-greater-frequency-element/
 
+https://www.geeksforgeeks.org/number-nges-right/
 
+https://www.geeksforgeeks.org/maximum-product-of-indexes-of-next-greater-on-left-and-right/  (ask in interview ,solved in one pass, only one stack )
+
+3) 
 
 
 
