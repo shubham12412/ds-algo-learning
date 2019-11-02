@@ -48,7 +48,7 @@ https://www.geeksforgeeks.org/stack-data-structure/
 
 https://www.geeksforgeeks.org/number-nges-right/
 
-https://www.geeksforgeeks.org/maximum-product-of-indexes-of-next-greater-on-left-and-right/  (ask in interview ,solved in one pass, only one stack )
+https://www.geeksforgeeks.org/maximum-product-of-indexes-of-next-greater-on-left-and-right/  (ask in interview ,solve in one pass, only one stack )
 
 3) 
 
