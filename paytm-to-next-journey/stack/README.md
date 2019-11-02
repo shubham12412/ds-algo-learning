@@ -38,7 +38,7 @@ https://www.geeksforgeeks.org/stack-data-structure/
 
 (new insight : using doubly linked list, remove smaller chunk of balanced parenthesis)
 
-=> above thinking leads tp one end tube (stack) (gather all along the path in one end tube)
+=> above thinking leads to one end tube (stack) (gather all unprocessed along the path in one end tube)
 
 2) https://www.geeksforgeeks.org/next-greater-element/
 
