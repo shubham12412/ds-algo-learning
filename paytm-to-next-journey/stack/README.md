@@ -50,6 +50,8 @@ https://www.geeksforgeeks.org/number-nges-right/
 
 https://www.geeksforgeeks.org/maximum-product-of-indexes-of-next-greater-on-left-and-right/  (ask in interview ,solve in one pass, only one stack )
 
+https://www.geeksforgeeks.org/the-stock-span-problem/   (previous greater element, solve without stack , you only have input[] and output[] array)
+
 3) 
 
 
