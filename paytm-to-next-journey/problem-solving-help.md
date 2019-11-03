@@ -4,3 +4,6 @@ e.g. for array of number problem : draw it like histogram and then think over it
 
 ![](https://www.mathworks.com/help/examples/matlab/win64/SavingAndLoadingHistogramObjectsExample_01.png)
 
+
+![](https://media.geeksforgeeks.org/wp-content/uploads/stock.png)
+
