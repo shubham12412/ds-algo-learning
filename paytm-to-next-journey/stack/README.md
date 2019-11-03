@@ -52,6 +52,10 @@ https://www.geeksforgeeks.org/maximum-product-of-indexes-of-next-greater-on-left
 
 https://www.geeksforgeeks.org/the-stock-span-problem/   (previous greater element, solve without stack , you only have input[] and output[] array)
 
+***we use a stack to store the days i, h(i), h(h(i)) and so on***
+ 
+ => if we ans[] array we can refer same inormation from output array so we don't need extra stack 
+
 3) 
 
 
