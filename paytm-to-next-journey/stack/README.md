@@ -54,7 +54,7 @@ https://www.geeksforgeeks.org/the-stock-span-problem/   (previous greater elemen
 
 ***we use a stack to store the days i, h(i), h(h(i)) and so on***
  
- => if we ans[] array we can refer same inormation from output array so we don't need extra stack 
+ => if we ans[] array we can refer same inormation from ans array so we don't need extra stack 
 
 3) 
 
