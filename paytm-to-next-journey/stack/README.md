@@ -56,7 +56,9 @@ https://www.geeksforgeeks.org/the-stock-span-problem/   (previous greater elemen
  
  => if we are given ans[] array we can refer same inormation from ans array so we don't need extra stack 
 
-3) 
+
+
+3) https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/
 
 
 
