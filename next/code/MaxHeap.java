@@ -21,14 +21,14 @@ public class MaxHeap {
 	}
 
 	public int max() {
-		if(heapArr.length <= 0) {
+		if(heapSize <= 0) {
 			throw new RuntimeException("heap is empty/underflow");
 		}
 		return heapArr[0];
 	}
 
 	public int deleteMax() {
-		if(heapArr.length <= 0) {
+		if(heapSize <= 0) {
 			throw new RuntimeException("heap is empty/underflow");
 		}
 		int max = heapArr[0];
