@@ -29,7 +29,7 @@ https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-
 7) https://www.geeksforgeeks.org/maximum-distinct-elements-removing-k-elements/
 instead of given sol use min heap
 
-8) 
+8) https://www.geeksforgeeks.org/k-maximum-sum-combinations-two-arrays/     ask-in-interview-medium
 
 ---------------------------------------------------------------------------------------------------------
 
