@@ -18,7 +18,13 @@ https://stackoverflow.com/questions/34329942/siftup-and-siftdown-operation-in-he
 2) https://www.geeksforgeeks.org/tournament-tree-and-binary-heap/
 
 3) https://www.geeksforgeeks.org/check-if-a-given-binary-tree-is-heap/
+https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/
 
+4) https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/
+
+5) https://www.geeksforgeeks.org/merge-k-sorted-arrays/
+
+6) https://www.geeksforgeeks.org/a-data-structure-question/   ***TODO Impl***
 
 
 
