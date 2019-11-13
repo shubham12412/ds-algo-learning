@@ -26,5 +26,18 @@ https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-
 
 6) https://www.geeksforgeeks.org/a-data-structure-question/   ***TODO Impl***
 
+7) https://www.geeksforgeeks.org/maximum-distinct-elements-removing-k-elements/
+instead of given sol use min heap
 
+8) 
 
+---------------------------------------------------------------------------------------------------------
+
+Advance TODO
+
+1) https://www.geeksforgeeks.org/merge-sort-tree-for-range-order-statistics/
+
+2) https://www.geeksforgeeks.org/smallest-derangement-sequence/
+https://www.geeksforgeeks.org/largest-derangement-sequence/
+
+3) 
