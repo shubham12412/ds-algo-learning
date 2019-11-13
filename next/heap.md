@@ -10,3 +10,15 @@ https://stackoverflow.com/questions/34329942/siftup-and-siftdown-operation-in-he
 
 
 
+-------------------------------------------------------------------------------------------------------------------
+
+
+1) https://www.geeksforgeeks.org/nearly-sorted-algorithm/
+
+2) https://www.geeksforgeeks.org/tournament-tree-and-binary-heap/
+
+3) https://www.geeksforgeeks.org/check-if-a-given-binary-tree-is-heap/
+
+
+
+
