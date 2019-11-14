@@ -37,6 +37,9 @@ instead of given sol use min heap
 
 11) https://www.geeksforgeeks.org/convert-bst-min-heap/ medium
 
+12) https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/ easy
+
+
 ---------------------------------------------------------------------------------------------------------
 
 Advance TODO
