@@ -39,6 +39,7 @@ instead of given sol use min heap
 
 12) https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/ easy
 
+13) https://www.geeksforgeeks.org/rearrange-characters-string-no-two-adjacent/ ask-in-interview-medium
 
 ---------------------------------------------------------------------------------------------------------
 
