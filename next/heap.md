@@ -31,6 +31,8 @@ instead of given sol use min heap
 
 8) https://www.geeksforgeeks.org/k-maximum-sum-combinations-two-arrays/     ask-in-interview-medium
 
+9) https://www.geeksforgeeks.org/print-all-nodes-less-than-a-value-x-in-a-min-heap/ ask-in-interview-simple O(n)
+
 ---------------------------------------------------------------------------------------------------------
 
 Advance TODO
