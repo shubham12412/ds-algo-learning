@@ -35,7 +35,7 @@ instead of given sol use min heap
 
 10) https://www.geeksforgeeks.org/median-of-stream-of-running-integers-using-stl/ ask-in-interview-hard   , we can also solve it using balanced bst with size augmentation
 
-
+11) https://www.geeksforgeeks.org/convert-bst-min-heap/ medium
 
 ---------------------------------------------------------------------------------------------------------
 
