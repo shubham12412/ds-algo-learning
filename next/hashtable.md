@@ -15,3 +15,6 @@ https://www.geeksforgeeks.org/hashing-data-structure/
 
 4) https://www.geeksforgeeks.org/find-missing-elements-of-a-range/
 
+5) https://www.geeksforgeeks.org/find-pair-with-greatest-product-in-array/
+
+6) https://www.geeksforgeeks.org/find-pairs-given-sum-elements-pair-different-rows/
