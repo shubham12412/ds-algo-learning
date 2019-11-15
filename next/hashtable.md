@@ -18,3 +18,7 @@ https://www.geeksforgeeks.org/hashing-data-structure/
 5) https://www.geeksforgeeks.org/find-pair-with-greatest-product-in-array/
 
 6) https://www.geeksforgeeks.org/find-pairs-given-sum-elements-pair-different-rows/
+
+7) https://www.geeksforgeeks.org/find-common-element-rows-row-wise-sorted-matrix/ ***** \
+https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/ *****
+
