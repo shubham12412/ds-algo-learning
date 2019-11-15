@@ -12,3 +12,6 @@ https://www.geeksforgeeks.org/hashing-data-structure/
 2) https://www.geeksforgeeks.org/find-top-k-or-most-frequent-numbers-in-a-stream/ ask-in-interview-medium
 
 3) https://www.geeksforgeeks.org/find-repetitive-element-1-n-1/ simple-trick-and-observation
+
+4) https://www.geeksforgeeks.org/find-missing-elements-of-a-range/
+
