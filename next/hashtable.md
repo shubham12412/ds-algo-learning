@@ -34,3 +34,13 @@ https://www.geeksforgeeks.org/find-distinct-elements-common-rows-matrix/ *****
 12) https://www.geeksforgeeks.org/count-quadruples-four-sorted-arrays-whose-sum-equal-given-value-x/ ask-in-interview-medium
 
 13) https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/ ***** beauty
+
+
+
+
+--------------------------------------------------------------------------------------------------------------
+
+Need discussion
+
+1) https://www.geeksforgeeks.org/find-pairs-b-array-b-k/
+
