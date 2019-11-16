@@ -23,5 +23,9 @@ https://www.geeksforgeeks.org/hashing-data-structure/
 https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/ ***** \
 https://www.geeksforgeeks.org/find-distinct-elements-common-rows-matrix/ *****
 
+8) https://www.geeksforgeeks.org/change-array-permutation-numbers-1-n/
 
+9) https://www.geeksforgeeks.org/count-pairs-with-given-sum/
+
+10) https://www.geeksforgeeks.org/count-pairs-two-sorted-arrays-whose-sum-equal-given-value-x/ ask-in-interview-simple
 
