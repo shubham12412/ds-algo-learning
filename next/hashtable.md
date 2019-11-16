@@ -29,3 +29,6 @@ https://www.geeksforgeeks.org/find-distinct-elements-common-rows-matrix/ *****
 
 10) https://www.geeksforgeeks.org/count-pairs-two-sorted-arrays-whose-sum-equal-given-value-x/ ask-in-interview-simple
 
+11) https://www.geeksforgeeks.org/count-pairs-two-linked-lists-whose-sum-equal-given-value/
+
+12) https://www.geeksforgeeks.org/count-quadruples-four-sorted-arrays-whose-sum-equal-given-value-x/ ask-in-interview-medium
