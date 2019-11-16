@@ -35,6 +35,8 @@ https://www.geeksforgeeks.org/find-distinct-elements-common-rows-matrix/ *****
 
 13) https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/ ***** beauty
 
+14) https://www.geeksforgeeks.org/convert-an-array-to-reduced-form-set-1-simple-and-hashing/
+
 
 
 
