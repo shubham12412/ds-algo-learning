@@ -43,7 +43,7 @@ https://www.geeksforgeeks.org/find-distinct-elements-common-rows-matrix/ *****
 
 ----------------------------------- medium---------
 
-1) 
+1) https://www.geeksforgeeks.org/find-itinerary-from-a-given-list-of-tickets/ ask-in-interview
 
 
 --------------------------------------------------------------------------------------------------------------
