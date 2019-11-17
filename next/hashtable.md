@@ -37,7 +37,9 @@ https://www.geeksforgeeks.org/find-distinct-elements-common-rows-matrix/ *****
 
 14) https://www.geeksforgeeks.org/convert-an-array-to-reduced-form-set-1-simple-and-hashing/
 
+15) https://www.geeksforgeeks.org/print-words-together-set-characters/
 
+16) https://www.geeksforgeeks.org/find-first-repeating-element-array-integers/
 
 
 --------------------------------------------------------------------------------------------------------------
