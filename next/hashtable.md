@@ -41,6 +41,10 @@ https://www.geeksforgeeks.org/find-distinct-elements-common-rows-matrix/ *****
 
 16) https://www.geeksforgeeks.org/find-first-repeating-element-array-integers/
 
+----------------------------------- medium---------
+
+1) 
+
 
 --------------------------------------------------------------------------------------------------------------
 
