@@ -70,6 +70,9 @@ https://www.geeksforgeeks.org/longest-subsequence-difference-adjacents-one-set-2
 11) https://www.geeksforgeeks.org/maximum-possible-sum-window-array-elements-window-array-unique/ ***** ask-in-interview
 beauty discussion-again
 
+12) https://www.geeksforgeeks.org/design-a-data-structure-that-supports-insert-delete-search-and-getrandom-in-constant-time/
+***** beauty discuss-again think-why
+
 --------------------------------------------------------------------------------------------------------------
 
 Need discussion
