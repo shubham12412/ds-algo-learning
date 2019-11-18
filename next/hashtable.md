@@ -54,6 +54,10 @@ https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/ beauty
 
 5) https://www.geeksforgeeks.org/subset-no-pair-sum-divisible-k/ ask-in-interview-simple beauty
 
+6) https://www.geeksforgeeks.org/find-three-element-from-different-three-arrays-such-that-that-a-b-c-k/
+
+7) https://www.geeksforgeeks.org/find-four-elements-a-b-c-and-d-in-an-array-such-that-ab-cd/ need discussion
+
 --------------------------------------------------------------------------------------------------------------
 
 Need discussion
