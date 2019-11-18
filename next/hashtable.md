@@ -63,7 +63,7 @@ https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/
 https://www.geeksforgeeks.org/longest-increasing-consecutive-subsequence/ ask-in-interview simple good *** \
 https://www.geeksforgeeks.org/longest-subsequence-difference-adjacents-one-set-2/ ask-in-interview
 
-9) https://www.geeksforgeeks.org/longest-consecutive-subsequence/ ask-in-interview good
+9) https://www.geeksforgeeks.org/longest-consecutive-subsequence/ ask-in-interview good ***** discuss again
 
 --------------------------------------------------------------------------------------------------------------
 
