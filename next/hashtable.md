@@ -60,7 +60,8 @@ https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/
 7) https://www.geeksforgeeks.org/find-four-elements-a-b-c-and-d-in-an-array-such-that-ab-cd/ need discussion
 
 8) https://www.geeksforgeeks.org/printing-longest-increasing-consecutive-subsequence/ check again \
-https://www.geeksforgeeks.org/longest-increasing-consecutive-subsequence/ ask-in-interview simple good ***
+https://www.geeksforgeeks.org/longest-increasing-consecutive-subsequence/ ask-in-interview simple good *** \
+https://www.geeksforgeeks.org/longest-subsequence-difference-adjacents-one-set-2/ ask-in-interview
 
 --------------------------------------------------------------------------------------------------------------
 
