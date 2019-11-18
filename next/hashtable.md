@@ -50,7 +50,7 @@ https://www.geeksforgeeks.org/find-distinct-elements-common-rows-matrix/ *****
 3) https://www.geeksforgeeks.org/check-if-an-array-can-be-divided-into-pairs-whose-sum-is-divisible-by-k/ ask-in-interview *****
 
 4) https://www.geeksforgeeks.org/longest-subarray-sum-divisible-k/ ask-in-interview need-discussion ***** beauty
-https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/ beauty
+https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/ beauty \
 https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/
 
 5) https://www.geeksforgeeks.org/subset-no-pair-sum-divisible-k/ ask-in-interview-simple beauty
