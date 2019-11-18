@@ -45,6 +45,7 @@ https://www.geeksforgeeks.org/find-distinct-elements-common-rows-matrix/ *****
 
 1) https://www.geeksforgeeks.org/find-itinerary-from-a-given-list-of-tickets/ ask-in-interview
 
+2) https://www.geeksforgeeks.org/find-number-of-employees-under-every-manager/ ask-in-interview *****
 
 --------------------------------------------------------------------------------------------------------------
 
