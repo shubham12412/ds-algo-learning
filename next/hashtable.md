@@ -59,6 +59,8 @@ https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/
 
 7) https://www.geeksforgeeks.org/find-four-elements-a-b-c-and-d-in-an-array-such-that-ab-cd/ need discussion
 
+8) https://www.geeksforgeeks.org/printing-longest-increasing-consecutive-subsequence/ check again
+
 --------------------------------------------------------------------------------------------------------------
 
 Need discussion
