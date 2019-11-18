@@ -47,6 +47,8 @@ https://www.geeksforgeeks.org/find-distinct-elements-common-rows-matrix/ *****
 
 2) https://www.geeksforgeeks.org/find-number-of-employees-under-every-manager/ ask-in-interview *****
 
+3) https://www.geeksforgeeks.org/check-if-an-array-can-be-divided-into-pairs-whose-sum-is-divisible-by-k/ ask-in-interview *****
+
 --------------------------------------------------------------------------------------------------------------
 
 Need discussion
