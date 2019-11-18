@@ -65,6 +65,8 @@ https://www.geeksforgeeks.org/longest-subsequence-difference-adjacents-one-set-2
 
 9) https://www.geeksforgeeks.org/longest-consecutive-subsequence/ ask-in-interview good ***** discuss again
 
+10) https://www.geeksforgeeks.org/count-distinct-elements-in-every-window-of-size-k/ ask-in-interview
+
 --------------------------------------------------------------------------------------------------------------
 
 Need discussion
