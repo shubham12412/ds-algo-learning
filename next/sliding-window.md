@@ -1,3 +1,6 @@
 https://www.geeksforgeeks.org/tag/sliding-window/
 
+https://medium.com/outco/how-to-solve-sliding-window-problems-28d67601a66
+
+
 1) https://www.geeksforgeeks.org/subarray-no-pair-sum-divisible-k/ ask-in-interview medium *****
