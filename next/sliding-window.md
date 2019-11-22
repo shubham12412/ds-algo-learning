@@ -20,4 +20,6 @@ https://medium.com/outco/how-to-solve-sliding-window-problems-28d67601a66
 
 This is very similar to the first kind, except, instead of incrementing the slow pointer up, you simply move it up the fast pointer’s location and then keep moving the fast pointer up. It sort of “jumps” to the index of the fast pointer when a certain condition is met.
 
+4) https://www.geeksforgeeks.org/find-maximum-possible-stolen-value-houses/
+
 
