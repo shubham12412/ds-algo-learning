@@ -7,6 +7,8 @@ https://medium.com/outco/how-to-solve-sliding-window-problems-28d67601a66
 ***Fast/Slow window*** ***** TODO code impl ask-in-interview think-again \
 https://medium.com/outco/how-to-solve-sliding-window-problems-28d67601a66
 
+These ones have a fast pointer that grows your window under a certain condition.
+
 It will also have a slow pointer, that shrinks the window. Once you find a valid window with the fast pointer, you want to start sliding the slow pointer up until you no longer have a valid window.
 
 
