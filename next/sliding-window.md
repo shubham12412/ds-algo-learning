@@ -10,5 +10,6 @@ https://medium.com/outco/how-to-solve-sliding-window-problems-28d67601a66
 2) https://www.geeksforgeeks.org/subarray-no-pair-sum-divisible-k/ ask-in-interview medium *****
 
 3) https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/ ***Fast/Catchup window*** **** \
+ slow pointer “jumps” to the fast pointer’s index \
 https://medium.com/outco/how-to-solve-sliding-window-problems-28d67601a66
 
