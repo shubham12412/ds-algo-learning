@@ -24,4 +24,4 @@ This is very similar to the first kind, except, instead of incrementing the slow
 
 This one is a little different, but essentially the slow pointer is simply referencing one or two indices behind the fast pointer and it’s keeping track of some choice you’ve made.
 
-5) 
+5) https://www.geeksforgeeks.org/trapping-rain-water/ ***Front/Back window***
