@@ -7,6 +7,10 @@ https://medium.com/outco/how-to-solve-sliding-window-problems-28d67601a66
 ***Fast/Slow window*** ***** TODO code impl ask-in-interview think-again \
 https://medium.com/outco/how-to-solve-sliding-window-problems-28d67601a66
 
+It will also have a slow pointer, that shrinks the window. Once you find a valid window with the fast pointer, you want to start sliding the slow pointer up until you no longer have a valid window.
+
+
+
 2) https://www.geeksforgeeks.org/subarray-no-pair-sum-divisible-k/ ask-in-interview medium *****
 
 3) https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/ ***Fast/Catchup window*** **** \
