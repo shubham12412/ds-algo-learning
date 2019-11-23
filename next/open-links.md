@@ -6,4 +6,4 @@ https://medium.com/outco/how-to-solve-sliding-window-problems-28d67601a66
 
 https://www.geeksforgeeks.org/trapping-rain-water/
 
-
+https://www.geeksforgeeks.org/tag/prefix-sum/
