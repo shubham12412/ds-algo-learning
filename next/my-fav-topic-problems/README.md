@@ -19,3 +19,9 @@ case - negative no also present, require: sol in O(1) space, trick: add absolute
 2) https://www.geeksforgeeks.org/find-if-there-is-a-subarray-with-0-sum/ \
 https://www.geeksforgeeks.org/print-all-subarrays-with-0-sum/
 
+
+------------------------------------------------------------------------------------------------------------------------
+
+### fin pair with given sum
+
+3) https://www.geeksforgeeks.org/find-if-there-is-a-subarray-with-0-sum/   sexy sol : hashing
