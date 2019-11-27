@@ -8,6 +8,8 @@ https://www.geeksforgeeks.org/find-subarray-with-given-sum-in-array-of-integers/
 
 case- negative no also present, ***tag: prefix-sum, hashmap***
 
+https://www.geeksforgeeks.org/find-subarray-with-given-sum-with-negatives-allowed-in-constant-space/
 
+case - negative also present, require: sol in O(1) space
 
 --------------------------------------------------------------------------------------------------------------------------
