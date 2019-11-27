@@ -73,6 +73,12 @@ beauty discussion-again
 12) https://www.geeksforgeeks.org/design-a-data-structure-that-supports-insert-delete-search-and-getrandom-in-constant-time/
 ***** beauty discuss-again think-why
 
+13) https://www.geeksforgeeks.org/check-array-contains-contiguous-integers-duplicates-allowed/
+
+14) https://www.geeksforgeeks.org/length-largest-subarray-contiguous-elements-set-1/ \
+https://www.geeksforgeeks.org/length-largest-subarray-contiguous-elements-set-2/
+
+
 --------------------------------------------------------------------------------------------------------------
 
 Need discussion
