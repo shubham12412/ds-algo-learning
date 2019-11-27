@@ -28,3 +28,6 @@ This one is a little different, but essentially the slow pointer is simply refer
 
 
 1) https://www.geeksforgeeks.org/subarray-no-pair-sum-divisible-k/ ask-in-interview medium *****
+
+2) https://www.geeksforgeeks.org/minimum-increment-operations-to-make-k-elements-equal/
+
