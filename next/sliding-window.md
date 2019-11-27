@@ -31,3 +31,5 @@ This one is a little different, but essentially the slow pointer is simply refer
 
 2) https://www.geeksforgeeks.org/minimum-increment-operations-to-make-k-elements-equal/
 
+3) https://www.geeksforgeeks.org/count-of-substrings-which-contains-a-given-character-k-times/ to-do-impl
+
