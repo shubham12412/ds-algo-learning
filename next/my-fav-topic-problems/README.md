@@ -24,4 +24,4 @@ https://www.geeksforgeeks.org/print-all-subarrays-with-0-sum/
 
 #### find pair with given sum
 
-3) https://www.geeksforgeeks.org/find-if-there-is-a-subarray-with-0-sum/   sexy sol : hashing
+3) https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/   sexy sol : hashing
