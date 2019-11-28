@@ -85,7 +85,7 @@ https://www.geeksforgeeks.org/length-largest-subarray-contiguous-elements-set-2/
 
 16) https://www.geeksforgeeks.org/maximum-difference-between-frequency-of-two-elements-such-that-element-having-greater-frequency-is-also-greater/ hashing+sorting
 
-17) https://www.geeksforgeeks.org/sum-fai-aj-pairs-array-n-integers/ ***** maths-logic , sexy, prefix-sum
+17) https://www.geeksforgeeks.org/sum-fai-aj-pairs-array-n-integers/ ***** maths-logic , sexy, prefix-sum, think-over-it-again
 
 --------------------------------------------------------------------------------------------------------------
 
