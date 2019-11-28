@@ -28,4 +28,8 @@ https://www.geeksforgeeks.org/print-all-subarrays-with-0-sum/
 
 https://www.geeksforgeeks.org/find-four-numbers-with-sum-equal-to-given-sum/
 
+https://www.geeksforgeeks.org/find-four-elements-that-sum-to-a-given-value-set-2/
+
+https://www.geeksforgeeks.org/find-four-elements-sum-given-value-set-3-hashmap/
+
 
