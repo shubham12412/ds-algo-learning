@@ -41,6 +41,9 @@ https://www.geeksforgeeks.org/find-distinct-elements-common-rows-matrix/ *****
 
 16) https://www.geeksforgeeks.org/find-first-repeating-element-array-integers/
 
+17) https://www.geeksforgeeks.org/vertical-sum-in-a-given-binary-tree/
+
+
 ----------------------------------- medium---------
 
 1) https://www.geeksforgeeks.org/find-itinerary-from-a-given-list-of-tickets/ ask-in-interview
