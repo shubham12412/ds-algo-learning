@@ -8,6 +8,9 @@ https://en.wikipedia.org/wiki/Bubble_sort \
 https://en.wikipedia.org/wiki/Cocktail_shaker_sort
 
 
+https://en.wikipedia.org/wiki/Insertion_sort   efficient for data sets that are already substantially sorted: the time complexity is O(kn) when each element in the input is no more than k places away from its sorted position
+
+
 
 
 ---------------------------------------------------------------------------------------------------------------------
