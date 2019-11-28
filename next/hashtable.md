@@ -87,6 +87,8 @@ https://www.geeksforgeeks.org/length-largest-subarray-contiguous-elements-set-2/
 
 17) https://www.geeksforgeeks.org/sum-fai-aj-pairs-array-n-integers/ ***** maths-logic , sexy, prefix-sum, think-over-it-again
 
+18) https://www.geeksforgeeks.org/maximize-elements-using-another-array/
+
 --------------------------------------------------------------------------------------------------------------
 
 Need discussion
