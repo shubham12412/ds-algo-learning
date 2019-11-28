@@ -25,3 +25,7 @@ https://www.geeksforgeeks.org/print-all-subarrays-with-0-sum/
 #### find pair with given sum
 
 3) https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/   sexy sol : hashing
+
+https://www.geeksforgeeks.org/find-four-numbers-with-sum-equal-to-given-sum/
+
+
