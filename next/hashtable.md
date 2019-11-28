@@ -83,6 +83,8 @@ https://www.geeksforgeeks.org/length-largest-subarray-contiguous-elements-set-2/
 
 15) https://www.geeksforgeeks.org/maximum-length-subsequence-difference-adjacent-elements-either-0-1-set-2/ ***** beauty ask-in-interview
 
+16) https://www.geeksforgeeks.org/maximum-difference-between-frequency-of-two-elements-such-that-element-having-greater-frequency-is-also-greater/ hashing+sorting
+
 --------------------------------------------------------------------------------------------------------------
 
 Need discussion
