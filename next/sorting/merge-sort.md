@@ -21,3 +21,12 @@ https://en.wikipedia.org/wiki/Merge_sort
 
 http://www.mathcs.emory.edu/~cheung/Courses/171/Syllabus/7-Sort/merge-sort5.html
 
+------------------------------------------------------------------------------------------------------------
+
+1) https://www.geeksforgeeks.org/merge-two-sorted-linked-lists/ *****
+
+2) https://www.geeksforgeeks.org/merge-sort-for-linked-list/ *****
+
+3) https://www.geeksforgeeks.org/merge-sort-for-doubly-linked-list/  *****
+
+
