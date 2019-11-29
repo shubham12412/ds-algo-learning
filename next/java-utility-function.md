@@ -1,3 +1,4 @@
-int f[] = new int[K]; 
+1) Arrays.fill(array, 0); 
 
-1) Arrays.fill(f, 0); 
+2) System.arraycopy(src, srcPos, dest, destPos, length);
+
