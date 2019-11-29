@@ -25,7 +25,7 @@ public class IterativeMergeSort {
       for(int left=0; left<n; left+= 2*width) {
         
         int right = left + 2*width - 1;
-        int  mid = (left + right)/2;
+        int  mid = left+width-1;
         
         if(mid < n-1) {
           right= Math.min(right, n-1);
@@ -53,3 +53,4 @@ public class IterativeMergeSort {
   }
 
 }
+
