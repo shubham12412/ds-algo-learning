@@ -9,3 +9,7 @@ https://www.geeksforgeeks.org/check-if-array-elements-are-consecutive/
 
 https://www.geeksforgeeks.org/length-largest-subarray-contiguous-elements-set-1/
 
+3) recursive call stack variable to iterative stack 
+
+https://www.geeksforgeeks.org/iterative-quick-sort/    
+
