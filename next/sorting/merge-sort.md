@@ -6,6 +6,8 @@ https://www.geeksforgeeks.org/iterative-merge-sort/
 
 https://en.wikipedia.org/wiki/Merge_sort
 
+https://www.geeksforgeeks.org/timsort/
+
 ***Recursive Top-down merge sort***
 
 ![](https://www.geeksforgeeks.org/wp-content/uploads/Merge-Sort-Tutorial.png)
