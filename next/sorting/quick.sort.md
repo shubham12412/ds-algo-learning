@@ -10,6 +10,10 @@ https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/
 
 https://www.geeksforgeeks.org/quicksort-tail-call-optimization-reducing-worst-case-space-log-n/
 
+https://www.geeksforgeeks.org/tail-recursion/
+
+https://www.geeksforgeeks.org/tail-call-elimination/
+
 ---------------------------------------------------------------------------------------------------------------------
 
 1) https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/
