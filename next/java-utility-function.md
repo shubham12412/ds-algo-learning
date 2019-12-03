@@ -9,6 +9,7 @@ import java.util.Collections;
 3) Arrays.stream(arr).max().getAsInt()
 
 4) Arrays.sort(arr, Collections.reverseOrder()); \
-Arrays.sort(arr, from_Index, to_Index);
+Arrays.sort(arr, from_Index, to_Index); //from_index inclusive , to_index exclusive
 
-
+5) Arrays.copyOf(original, newLength); \
+  Arrays.copyOfRange(original, from, to);   //from inclusive, to exclusive
