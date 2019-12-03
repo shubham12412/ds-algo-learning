@@ -8,7 +8,7 @@ import java.util.Collections;
 
 3) Arrays.stream(arr).max().getAsInt()
 
-4) Arrays.sort(arr, Collections.reverseOrder()); 
+4) Arrays.sort(arr, Collections.reverseOrder()); \
 Arrays.sort(arr, from_Index, to_Index);
 
 
