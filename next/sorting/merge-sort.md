@@ -7,6 +7,7 @@ https://www.geeksforgeeks.org/iterative-merge-sort/
 https://en.wikipedia.org/wiki/Merge_sort
 
 https://www.geeksforgeeks.org/timsort/
+https://en.wikipedia.org/wiki/Timsort
 
 ***Recursive Top-down merge sort***
 
