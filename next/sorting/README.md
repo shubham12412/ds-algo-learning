@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/Insertion_sort   efficient for data sets that are 
 
 https://www.geeksforgeeks.org/radix-sort/ check-impl-again    digit extraction = (number/pow(10,i))%10
 
-https://www.geeksforgeeks.org/shellsort/
+https://www.geeksforgeeks.org/shellsort/ \
 https://en.wikipedia.org/wiki/Shellsort
 
 ---------------------------------------------------------------------------------------------------------------------
