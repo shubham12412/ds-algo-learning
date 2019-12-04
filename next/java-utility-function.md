@@ -22,3 +22,9 @@ The insertion point is defined as the point at which the key would be inserted i
 Note that this guarantees that the return value will be >= 0 if and only if the key is found.
 
 7) 
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+1) interface Comparable<T> { int compareTo(T o) }    class natural ordering
