@@ -27,4 +27,4 @@ Note that this guarantees that the return value will be >= 0 if and only if the 
 
 --------------------------------------------------------------------------------------------------------------------
 
-1) interface Comparable<T> { int compareTo(T o) }    class natural ordering
+1) interface Comparable<T> { int compareTo(T o) }                // ***class natural ordering***
