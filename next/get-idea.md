@@ -13,3 +13,8 @@ https://www.geeksforgeeks.org/length-largest-subarray-contiguous-elements-set-1/
 
 https://www.geeksforgeeks.org/iterative-quick-sort/    
 
+4) https://www.geeksforgeeks.org/check-if-any-two-intervals-overlap-among-a-given-set-of-intervals/
+
+idea arr[start]++ and arr[end+1]-- => count overlap , also can count max interval overlap
+
+check physical meaning of it , check-again, think-again
