@@ -147,6 +147,25 @@ interface NavigableMap<K,V> extends SortedMap<K,V> {
 }
 ```
 
+5)
+
+```
+interface SortedSet<E> extends Set<E> {
+  
+  SortedSet<E> subSet(E fromElement, E toElement);
+  
+  SortedSet<E> headSet(E toElement);
+  
+  SortedSet<E> tailSet(E fromElement);
+  
+  E first();
+  
+  E last();
+
+}
+```
+
+
 -----------------------------------------------------------------------------------------------------------------------
   
 
