@@ -64,6 +64,7 @@ interface SortedMap<K,V> extends Map<K,V> {
  
 }
 ```
+small finding : In java generally range is half closed , start is inclusive, end is exclusive
 
 -----------------------------------------------------------------------------------------------------------------------
   
