@@ -10,7 +10,7 @@ https://www.geeksforgeeks.org/counting-inversions/ *****
 
 5) https://www.geeksforgeeks.org/sort-array-according-order-defined-another-array/ *****
 
-6) 
+6) https://geeksforgeeks.org/sort-array-wave-form-2/ observation
 
 
 ---------------------------------------------------------------------------------------------------------------------
