@@ -190,7 +190,14 @@ interface NavigableSet<E> extends SortedSet<E> {
 ```
 
 7) 
-
+```
+ class TreeMap<K,V>
+    extends AbstractMap<K,V>
+    implements NavigableMap<K,V>, Cloneable, java.io.Serializable {
+ 
+ }
+    
+```
 
 
 -----------------------------------------------------------------------------------------------------------------------
