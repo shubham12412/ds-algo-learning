@@ -67,6 +67,83 @@ interface SortedMap<K,V> extends Map<K,V> {
 small finding : In java generally range is half closed , start is inclusive, end is exclusive
 
 4) 
+```
+interface NavigableMap<K,V> extends SortedMap<K,V> {
+
+  Note: A SortedMap extended with navigation methods returning the closest matches for 
+  given search targets. Methods lowerEntry, floorEntry, ceilingEntry, and higherEntry 
+  return Map.Entry objects associated with keys respectively less than, less than or equal, 
+  greater than or equal, and  greater than a given key, returning null if there is no such key. 
+  
+  Similarly, methods lowerKey, floorKey, ceilingKey, and higherKey  return only the associated 
+  keys. All of these methods     are designed for locating, not traversing entries.
+
+  A NavigableMap may be accessed and traversed in either ascending or descending key order. 
+
+  Methods subMap, headMap, and tailMap differ from the like-named SortedMap methods in accepting 
+  additional arguments describing whether lower and upper bounds are inclusive versus exclusive. 
+  
+  This interface additionally defines methods firstEntry, pollFirstEntry, lastEntry, and pollLastEntry 
+  that return and/or remove the least and greatest mappings, if any exist, else returning null
+  
+  
+  
+  Map.Entry<K,V> lowerEntry(K key);
+  
+  Returns a key-value mapping associated with the greatest 
+  key strictly less than the given key, or null if there is no such key.
+  
+  K lowerKey(K key);
+  
+  Map.Entry<K,V> floorEntry(K key);
+  
+  Returns a key-value mapping associated with the greatest key
+  less than or equal to the given key or null if there is no such key.
+  
+  K floorKey(K key);
+  
+  Map.Entry<K,V> ceilingEntry(K key);
+  
+  Returns a key-value mapping associated with the least key greater 
+  than or equal to the given key, or null if there is no such key.
+  
+  K ceilingKey(K key);
+  
+  Map.Entry<K,V> higherEntry(K key);
+  
+  Returns a key-value mapping associated with the least key strictly greater
+  than the given key, or null if there is no such key
+  
+  K higherKey(K key);
+  
+  Map.Entry<K,V> firstEntry();
+  
+  Map.Entry<K,V> lastEntry();
+  
+  Map.Entry<K,V> pollFirstEntry();
+  
+  Removes and returns a key-value mapping associated with the least key in 
+  this map, or null if the map is empty.
+  
+  Map.Entry<K,V> pollLastEntry();
+  
+  Removes and returns a key-value mapping associated with the greatest key in 
+  this map, or null if the map is empty.
+  
+  NavigableMap<K,V> descendingMap();
+  
+  NavigableSet<K> descendingKeySet()
+  
+  NavigableSet<K> navigableKeySet();
+  
+  NavigableMap<K,V> subMap(K fromKey, boolean fromInclusive,
+                             K toKey,   boolean toInclusive);
+  
+  NavigableMap<K,V> headMap(K toKey, boolean inclusive);
+  
+  NavigableMap<K,V> tailMap(K fromKey, boolean inclusive);
+  
+}
 
 -----------------------------------------------------------------------------------------------------------------------
   
