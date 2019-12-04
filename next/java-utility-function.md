@@ -27,10 +27,21 @@ Note that this guarantees that the return value will be >= 0 if and only if the 
 
 
 
---------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
+***important interfaces and some important methods***
+
 
 1) interface Comparable<T> { int compareTo(T o) }                // ***class natural ordering***
 
 2) interface Comparator<T> { int compare(T o1, T o2); }
+
+3) interface SortedMap<K,V> extends Map<K,V> { \
+  K firstKey(); \
+  K lastKey(); \
+}
+
+
+-----------------------------------------------------------------------------------------------------------------------
   
-  
+
+
