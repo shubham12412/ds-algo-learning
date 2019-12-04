@@ -18,3 +18,7 @@ https://www.geeksforgeeks.org/iterative-quick-sort/
 idea arr[start]++ and arr[end+1]-- => count overlap , also can count max interval overlap
 
 check physical meaning of it , check-again, think-again
+
+***prefix sum give you => no of interval which is open but not closed yet***
+
+***could think like no of open parenthesis for which closed parenthesis not seen yet***
