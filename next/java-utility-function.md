@@ -35,11 +35,35 @@ Note that this guarantees that the return value will be >= 0 if and only if the 
 
 2) interface Comparator<T> { int compare(T o1, T o2); }
 
-3) interface SortedMap<K,V> extends Map<K,V> { \
-  K firstKey(); \
-  K lastKey(); \
-}
+3) 
+```
+interface SortedMap<K,V> extends Map<K,V> { 
+  
+ K firstKey(); 
+ 
+ K lastKey(); 
 
+ SortedMap<K,V> subMap(K fromKey, K toKey); 
+ 
+ Returns a view of the portion of this map whose keys range from fromKey, inclusive, to toKey, exclusive. 
+ (If fromKey and toKey are equal, the returned map is empty.) 
+ 
+ Note: The returned map is backed by this map, so changes in the returned map are reflected in 
+ this map, and vice-versa. The returned map supports all optional map operations that this map supports.
+ The returned map will throw an IllegalArgumentException on an attempt to insert a key outside its range.
+ 
+ 
+ SortedMap<K,V> headMap(K toKey);
+ 
+ Returns a view of the portion of this map whose keys are strictly less than toKey.
+ 
+ 
+ SortedMap<K,V> tailMap(K fromKey);
+ 
+ Returns a view of the portion of this map whose keys are greater than or equal to fromKey.
+ 
+}
+```
 
 -----------------------------------------------------------------------------------------------------------------------
   
