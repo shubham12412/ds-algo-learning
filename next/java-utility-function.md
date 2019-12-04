@@ -17,6 +17,8 @@ Arrays.sort(arr, from_Index, to_Index); //from_index inclusive , to_index exclus
 6)  Arrays.binarySearch(array, key); \
 return value : index of the search key, if it is contained in the array; otherwise, (-(insertion point) - 1). 
 
+Arrays.binarySearch(array, fromIndex_inclusive, toIndex_exclusive, key);
+
 The insertion point is defined as the point at which the key would be inserted into the array: the index of the first element greater than the key, or a.length if all elements in the array are less than the specified key. 
 
 Note that this guarantees that the return value will be >= 0 if and only if the key is found.
