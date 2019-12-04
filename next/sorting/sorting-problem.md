@@ -12,7 +12,7 @@ https://www.geeksforgeeks.org/counting-inversions/ *****
 
 6) https://geeksforgeeks.org/sort-array-wave-form-2/ observation
 
-7) https://www.geeksforgeeks.org/check-if-any-two-intervals-overlap-among-a-given-set-of-intervals/ (arr[start]++ and arr[end+1]-- approach is good obervation , could be apply in other problem)
+7) https://www.geeksforgeeks.org/check-if-any-two-intervals-overlap-among-a-given-set-of-intervals/ (arr[start]++ and arr[end+1]-- approach is good obervation , could be apply in other problem)  (think-again ++ and -- actual physical meaning)
 
 
 
