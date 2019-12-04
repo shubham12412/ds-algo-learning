@@ -4,3 +4,12 @@ https://www.geeksforgeeks.org/counting-inversions/ *****
 
 2) https://www.geeksforgeeks.org/find-memory-conflicts-among-multiple-threads/
 
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+check again
+
+1) https://www.geeksforgeeks.org/a-pancake-sorting-question/
+
