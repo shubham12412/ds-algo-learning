@@ -22,6 +22,9 @@ https://www.geeksforgeeks.org/find-the-point-where-maximum-intervals-overlap/ be
 
 10) https://www.geeksforgeeks.org/find-missing-elements-of-a-range/ think-again
 
+11) https://www.geeksforgeeks.org/convert-an-array-to-reduced-form-set-1-simple-and-hashing/ *****
+
+12) 
 
 ---------------------------------------------------------------------------------------------------------------------
 
