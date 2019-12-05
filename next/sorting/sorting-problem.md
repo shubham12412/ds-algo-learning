@@ -20,6 +20,9 @@ https://www.geeksforgeeks.org/find-the-point-where-maximum-intervals-overlap/ be
 
 9) https://www.geeksforgeeks.org/how-to-sort-a-linked-list-that-is-sorted-alternating-ascending-and-descending-orders/ to-do impl check-implementation
 
+10) https://www.geeksforgeeks.org/find-missing-elements-of-a-range/ think-again
+
+
 ---------------------------------------------------------------------------------------------------------------------
 
 check again
