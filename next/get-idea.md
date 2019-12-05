@@ -24,3 +24,7 @@ check physical meaning of it , check-again, think-again
 ***prefix sum give you => no of interval which is open but not closed yet***
 
 ***could think like no of open parenthesis for which closed parenthesis not seen yet***
+
+5) geeksforgeeks.org/find-surpasser-count-of-each-element-in-array/ 
+
+inversion like idea , explore more this trick
