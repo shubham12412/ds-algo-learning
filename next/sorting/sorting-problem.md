@@ -1,6 +1,7 @@
-1) ***inversion count*** \
+1) ***inversion count and similiar concept prob*** \
 https://www.geeksforgeeks.org/time-complexity-insertion-sort-inversions/ good-observation \
-https://www.geeksforgeeks.org/counting-inversions/ *****
+https://www.geeksforgeeks.org/counting-inversions/ ***** \
+https://www.geeksforgeeks.org/find-surpasser-count-of-each-element-in-array/  *****
 
 2) https://www.geeksforgeeks.org/find-memory-conflicts-among-multiple-threads/
 
@@ -24,7 +25,7 @@ https://www.geeksforgeeks.org/find-the-point-where-maximum-intervals-overlap/ be
 
 11) https://www.geeksforgeeks.org/convert-an-array-to-reduced-form-set-1-simple-and-hashing/ *****
 
-12) 
+12) https://www.geeksforgeeks.org/find-surpasser-count-of-each-element-in-array/ ***** think-again beauty
 
 ---------------------------------------------------------------------------------------------------------------------
 
