@@ -1,7 +1,7 @@
 1) ***inversion count and similiar concept prob*** \
 https://www.geeksforgeeks.org/time-complexity-insertion-sort-inversions/ good-observation \
 https://www.geeksforgeeks.org/counting-inversions/ ***** \
-https://www.geeksforgeeks.org/find-surpasser-count-of-each-element-in-array/  *****
+https://www.geeksforgeeks.org/find-surpasser-count-of-each-element-in-array/  ***** beauty think-again discuss-again
 
 2) https://www.geeksforgeeks.org/find-memory-conflicts-among-multiple-threads/
 
