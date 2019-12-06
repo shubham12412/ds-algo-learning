@@ -28,7 +28,8 @@ https://www.geeksforgeeks.org/find-the-point-where-maximum-intervals-overlap/ be
 12) https://www.geeksforgeeks.org/find-surpasser-count-of-each-element-in-array/ ***** think-again beauty
 
 13) rearrange positive and negative \
-https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers-publish/
+https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers-publish/ \
+https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/
 
 
 ---------------------------------------------------------------------------------------------------------------------
