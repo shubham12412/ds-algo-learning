@@ -31,6 +31,8 @@ https://www.geeksforgeeks.org/find-the-point-where-maximum-intervals-overlap/ be
 https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers-publish/ O(n) time, O(1) space,order not mantained , partition step of quicksort \
 https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/ O(n^2) time, O(1) space, order is mantained, find outoforder elment and right rotation
 
+https://www.geeksforgeeks.org/move-ve-elements-end-order-extra-space-allowed/ \
+https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers/
 
 ---------------------------------------------------------------------------------------------------------------------
 
