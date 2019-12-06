@@ -1,1 +1,1 @@
-1) order is not mantained in quicksort partition step
+1) order is not maintained in quicksort ***partition*** step
