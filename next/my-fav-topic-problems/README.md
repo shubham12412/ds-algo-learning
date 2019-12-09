@@ -64,3 +64,7 @@ https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/  \
 https://www.geeksforgeeks.org/minimum-swaps-to-make-two-array-identical/ \
 https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/ think-again discuss-again
 
+---------------------------------------------------------------------------------------------------------------
+
+9) check if array can represent arithmetic progression \
+https://www.geeksforgeeks.org/check-whether-arithmetic-progression-can-formed-given-array/
