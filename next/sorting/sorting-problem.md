@@ -48,6 +48,8 @@ https://www.geeksforgeeks.org/possible-form-triangle-array-values/
 18) very large 10^6 digit integer  array sorting \
 https://www.geeksforgeeks.org/sorting-big-integers/
 
+19) https://www.geeksforgeeks.org/sort-3-integers-without-using-condition-using-max-function/ intresting ***  
+  
   
 ---------------------------------------------------------------------------------------------------------------------
 
