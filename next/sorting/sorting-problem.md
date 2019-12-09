@@ -49,7 +49,11 @@ https://www.geeksforgeeks.org/possible-form-triangle-array-values/
 https://www.geeksforgeeks.org/sorting-big-integers/
 
 19) https://www.geeksforgeeks.org/sort-3-integers-without-using-condition-using-max-function/ intresting ***  
-  
+
+20) convert array to reduced form \
+https://www.geeksforgeeks.org/convert-an-array-to-reduced-form-set-1-simple-and-hashing/ \
+https://www.geeksforgeeks.org/convert-array-reduced-form-set-2-using-vector-pairs/
+
   
 ---------------------------------------------------------------------------------------------------------------------
 
