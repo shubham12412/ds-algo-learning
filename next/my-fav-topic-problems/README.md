@@ -44,5 +44,13 @@ https://www.geeksforgeeks.org/check-if-any-two-intervals-overlap-among-a-given-s
 
 --------------------------------------------------------------------------------------------------------------------
 
-6) geeksforgeeks.org/find-surpasser-count-of-each-element-in-array/ inversion hard
+6) https://www.geeksforgeeks.org/find-surpasser-count-of-each-element-in-array/ inversion hard
+
+------------------------------------------------------------------------------------------------------------------
+
+7) rearrange positive and negative alternatively and more
+
+https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers/ \
+https://www.geeksforgeeks.org/program-for-array-rotation-continued-reversal-algorithm/
+
 
