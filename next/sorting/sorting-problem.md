@@ -38,7 +38,10 @@ https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-item
 14) kth element in missing number , get-idea from here \
 https://www.geeksforgeeks.org/k-th-smallest-element-removing-integers-natural-numbers/
 
-15)
+15) possible to form triangle \
+https://www.geeksforgeeks.org/possible-form-triangle-array-values/
+
+
 
   
 ---------------------------------------------------------------------------------------------------------------------
