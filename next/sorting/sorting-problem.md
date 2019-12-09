@@ -54,6 +54,10 @@ https://www.geeksforgeeks.org/sorting-big-integers/
 https://www.geeksforgeeks.org/convert-an-array-to-reduced-form-set-1-simple-and-hashing/ \
 https://www.geeksforgeeks.org/convert-array-reduced-form-set-2-using-vector-pairs/
 
+21) find noble integer , comment sol, discussion sol is good,  O(n) \
+https://www.geeksforgeeks.org/noble-integers-in-an-array-count-of-greater-elements-is-equal-to-value/ \
+https://ide.geeksforgeeks.org/qBWlvi  learning-is-observation-is-important
+
   
 ---------------------------------------------------------------------------------------------------------------------
 
