@@ -32,6 +32,14 @@ https://www.geeksforgeeks.org/find-four-elements-that-sum-to-a-given-value-set-2
 
 https://www.geeksforgeeks.org/find-four-elements-sum-given-value-set-3-hashmap/
 
+#### triplet with a given sum
+
+https://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/
+
+https://www.geeksforgeeks.org/find-triplets-array-whose-sum-equal-zero/
+
+
+
 ----------------------------------------------------------------------------------------------------------------------
 
 4) https://www.geeksforgeeks.org/how-to-efficiently-sort-a-big-list-dates-in-20s/  3 time count sort (similiar to radix-sort)
