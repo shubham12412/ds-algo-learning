@@ -53,4 +53,13 @@ https://www.geeksforgeeks.org/check-if-any-two-intervals-overlap-among-a-given-s
 https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers/ \
 https://www.geeksforgeeks.org/program-for-array-rotation-continued-reversal-algorithm/
 
+-------------------------------------------------------------------------------------------------------------
+
+8) minimum swap required problem (inversion problem)  
+
+check-again , not clear fully yet, think-again, read-again
+
+https://www.geeksforgeeks.org/cycle-sort/ \
+https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/  \
+https://www.geeksforgeeks.org/minimum-swaps-to-make-two-array-identical/ \
 
