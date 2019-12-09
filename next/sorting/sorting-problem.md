@@ -34,7 +34,12 @@ https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-item
   https://www.geeksforgeeks.org/move-ve-elements-end-order-extra-space-allowed/ \
   https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers/ \
   https://www.geeksforgeeks.org/program-for-array-rotation-continued-reversal-algorithm/
-  
+
+14) kth element in missing number , get-idea from here \
+https://www.geeksforgeeks.org/k-th-smallest-element-removing-integers-natural-numbers/
+
+15)
+
   
 ---------------------------------------------------------------------------------------------------------------------
 
