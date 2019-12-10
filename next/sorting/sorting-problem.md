@@ -58,6 +58,9 @@ https://www.geeksforgeeks.org/convert-array-reduced-form-set-2-using-vector-pair
 https://www.geeksforgeeks.org/noble-integers-in-an-array-count-of-greater-elements-is-equal-to-value/ \
 https://ide.geeksforgeeks.org/qBWlvi  learning-is-observation-is-important
 
+22) https://www.geeksforgeeks.org/smallest-difference-triplet-from-three-arrays/
+
+
   
 ---------------------------------------------------------------------------------------------------------------------
 
