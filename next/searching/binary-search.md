@@ -49,4 +49,6 @@ predecessor (next-smallest element), \
 successor (next-largest element), \
 and nearest neighbor. 
 
+ Range queries seeking the number of elements between two values can be performed with two rank queries.
+ 
 -------------------------------------------------------------------------------------------------------------------------
