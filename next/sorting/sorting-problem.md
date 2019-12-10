@@ -60,6 +60,8 @@ https://ide.geeksforgeeks.org/qBWlvi  learning-is-observation-is-important
 
 22) https://www.geeksforgeeks.org/smallest-difference-triplet-from-three-arrays/
 
+23) https://www.geeksforgeeks.org/check-possible-sort-array-conditional-swapping-adjacent-allowed/
+
 
   
 ---------------------------------------------------------------------------------------------------------------------
