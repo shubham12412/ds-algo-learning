@@ -18,5 +18,19 @@ In the above example, the 4th element is the leftmost element of the value 4, wh
 
 The alternative procedure above will always return the index of the rightmost element if such an element exists
 
+```
+function binary_search_leftmost(A, n, T):
+    L := 0
+    R := n
+    while L < R:
+        m := floor((L + R) / 2)
+        if A[m] < T:
+            L := m + 1
+        else:
+            R := m
+    return L
+
+```
+
 ------------------------------------------------------------------------------------------------------------------------
 
