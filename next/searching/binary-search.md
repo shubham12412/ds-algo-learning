@@ -34,3 +34,19 @@ function binary_search_leftmost(A, n, T):
 
 ------------------------------------------------------------------------------------------------------------------------
 
+***Approximate matches***
+
+The above procedure only performs exact matches, finding the position of a target value. 
+
+However, it is trivial to extend binary search to perform approximate matches because binary search operates on sorted arrays. 
+
+For example, binary search can be used to compute, 
+
+for a given value, 
+
+its ***rank (the number of smaller elements)***, \
+predecessor (next-smallest element), \
+successor (next-largest element), \
+and nearest neighbor. 
+
+-------------------------------------------------------------------------------------------------------------------------
