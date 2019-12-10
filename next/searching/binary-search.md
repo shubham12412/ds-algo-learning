@@ -32,6 +32,21 @@ function binary_search_leftmost(A, n, T):
 
 ```
 
+```
+function binary_search_rightmost(A, n, T):
+    L := 0
+    R := n
+    while L < R:
+        m := floor((L + R) / 2)
+        if A[m] > T:
+            R := m
+        else:
+            L := m + 1
+    return L - 1
+
+```
+
+
 ------------------------------------------------------------------------------------------------------------------------
 
 ***Approximate matches***
