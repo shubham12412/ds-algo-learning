@@ -1,5 +1,7 @@
 https://www.geeksforgeeks.org/searching-algorithms/
 
+https://www.geeksforgeeks.org/the-ubiquitous-binary-search-set-1/ todo-impl ***
+
 --------------------------------------------------------------------------------------------------------------------------
 
 https://www.geeksforgeeks.org/binary-search/
