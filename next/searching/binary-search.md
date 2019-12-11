@@ -1,5 +1,7 @@
 https://en.wikipedia.org/wiki/Binary_search_algorithm
 
+https://www.geeksforgeeks.org/the-ubiquitous-binary-search-set-1/ todo-impl
+
 ----------------------------------------------------------------------------------------------------------------------
 
 ***Duplicate elements***
