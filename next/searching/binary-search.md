@@ -2,6 +2,9 @@ https://en.wikipedia.org/wiki/Binary_search_algorithm
 
 https://www.geeksforgeeks.org/the-ubiquitous-binary-search-set-1/ todo-impl
 
+https://github.com/shubham12412/ds-algo-learning/blob/master/next/code/BinarySearchLeftmostRightmostWithInsertionPointExample.java
+
+
 ----------------------------------------------------------------------------------------------------------------------
 
 ***Duplicate elements***
