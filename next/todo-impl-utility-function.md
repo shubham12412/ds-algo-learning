@@ -8,3 +8,4 @@
 
 5) binary search which return rightmost value
 
+6) search in rotated sorted array
