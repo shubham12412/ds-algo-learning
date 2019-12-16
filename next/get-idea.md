@@ -28,3 +28,6 @@ check physical meaning of it , check-again, think-again
 5) geeksforgeeks.org/find-surpasser-count-of-each-element-in-array/ 
 
 inversion like idea , explore more this trick
+
+6) https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/
+
