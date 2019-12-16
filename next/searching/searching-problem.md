@@ -16,4 +16,4 @@
 
 log(n) -- binary-search sol will work only when elements are distinct
 
-7) https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/ ***** beauty
+7) https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/ ***** beauty ask-in-interview
