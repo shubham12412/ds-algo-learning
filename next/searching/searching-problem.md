@@ -8,3 +8,4 @@
 
 3) https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/ think-again discuss-again
 
+4) https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/ ***** discuss-again
