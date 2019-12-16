@@ -17,3 +17,6 @@
 log(n) -- binary-search sol will work only when elements are distinct
 
 7) https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/ ***** beauty ask-in-interview
+
+8) https://www.geeksforgeeks.org/find-the-k-most-frequent-words-from-a-file/ discuss-again think-again beauty *****
+
