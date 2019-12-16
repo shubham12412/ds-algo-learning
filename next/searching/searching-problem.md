@@ -11,3 +11,7 @@
 4) https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/ ***** discuss-again
 
 5) https://www.geeksforgeeks.org/find-a-fixed-point-in-a-given-array/ ask-in-interview
+
+6) https://www.geeksforgeeks.org/find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing/
+
+log(n) -- binary-search sol will work only when elements are distinct
