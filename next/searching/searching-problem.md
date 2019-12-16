@@ -21,5 +21,7 @@ log(n) -- binary-search sol will work only when elements are distinct
 8) https://www.geeksforgeeks.org/find-the-k-most-frequent-words-from-a-file/ discuss-again think-again beauty ***** \
 https://ide.geeksforgeeks.org/JIPjXW7SM2
 
+9) https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/
+
 
 
