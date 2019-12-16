@@ -15,3 +15,5 @@
 6) https://www.geeksforgeeks.org/find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing/
 
 log(n) -- binary-search sol will work only when elements are distinct
+
+7) https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/ ***** beauty
