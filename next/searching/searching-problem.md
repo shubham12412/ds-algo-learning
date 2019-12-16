@@ -6,5 +6,5 @@
 
 2) https://www.geeksforgeeks.org/median-of-two-sorted-arrays/ todo-impl discuss-again think-again ******
 
-
+3) https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/ think-again discuss-again
 
