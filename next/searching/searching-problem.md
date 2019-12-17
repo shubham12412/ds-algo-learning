@@ -30,3 +30,7 @@ https://ide.geeksforgeeks.org/JIPjXW7SM2
 12) https://www.geeksforgeeks.org/find-k-closest-elements-given-value/  todo-impl simple
 
 13) https://www.geeksforgeeks.org/search-almost-sorted-array/ todo-impl
+
+14) https://www.geeksforgeeks.org/find-first-repeating-element-array-integers/ simple
+
+15) 
