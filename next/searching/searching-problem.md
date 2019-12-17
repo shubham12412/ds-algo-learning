@@ -35,4 +35,6 @@ https://ide.geeksforgeeks.org/JIPjXW7SM2
 
 15) https://www.geeksforgeeks.org/count-1s-sorted-binary-array/
 
+16) https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/ ask-in-interview *** index-modular-arithmetic
+
 
