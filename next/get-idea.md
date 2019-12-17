@@ -31,3 +31,38 @@ inversion like idea , explore more this trick
 
 6) https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/
 
+7) https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/
+
+index incremented or decremented in rotational manner (modular arithmetic)
+
+ l = (l + 1) % n; 
+ 
+ r = (n + r - 1) % n;
+ 
+ // Keep moving either l or r till they meet 
+ 
+ while (l != r) {}
+ 
+ corner case for all pair
+ 
+ ```
+ if (arr[l] + arr[r] == x) 
+        { 
+            cnt++; 
+              
+            // This condition is required  
+            // to be checked, otherwise  
+            // l and r will cross each  
+            // other and loop will never  
+            // terminate. 
+            if(l == (r - 1 + n) % n) 
+            { 
+                return cnt; 
+            } 
+              
+            l = (l + 1) % n; 
+            r = (r - 1 + n) % n; 
+        } 
+ ```
+ 
+ 8) 
