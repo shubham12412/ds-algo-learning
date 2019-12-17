@@ -39,5 +39,7 @@ https://ide.geeksforgeeks.org/JIPjXW7SM2
 
 17) https://www.geeksforgeeks.org/kth-largest-element-in-a-stream/ ***** 
 
+18) https://www.geeksforgeeks.org/find-the-element-that-appears-once-in-a-sorted-array/ beauty observation think-again *****
+
 
 
