@@ -50,5 +50,8 @@ https://www.geeksforgeeks.org/find-the-element-that-odd-number-of-times-in-olog-
 
 21) https://www.geeksforgeeks.org/second-minimum-element-using-minimum-comparisons/ todo-impl *****
 
+22) https://www.geeksforgeeks.org/print-all-possible-consecutive-numbers-with-sum-n/ beauty think-again ******
+
+
 
 
