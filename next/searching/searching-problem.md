@@ -23,5 +23,7 @@ https://ide.geeksforgeeks.org/JIPjXW7SM2
 
 9) https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/
 
+10) https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/
+
 
 
