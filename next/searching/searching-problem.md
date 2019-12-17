@@ -46,5 +46,7 @@ https://www.geeksforgeeks.org/find-the-element-that-odd-number-of-times-in-olog-
 
 19) https://www.geeksforgeeks.org/find-three-closest-elements-from-given-three-sorted-arrays/ ***** 
 
+20) https://www.geeksforgeeks.org/find-the-element-before-which-all-the-elements-are-smaller-than-it-and-after-which-all-are-greater-than-it/
+
 
 
