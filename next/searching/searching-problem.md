@@ -41,5 +41,8 @@ https://ide.geeksforgeeks.org/JIPjXW7SM2
 
 18) https://www.geeksforgeeks.org/find-the-element-that-appears-once-in-a-sorted-array/ beauty observation think-again *****
 
+https://www.geeksforgeeks.org/find-the-element-that-odd-number-of-times-in-olog-n-time/
+
+
 
 
