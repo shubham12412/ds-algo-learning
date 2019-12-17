@@ -48,5 +48,7 @@ https://www.geeksforgeeks.org/find-the-element-that-odd-number-of-times-in-olog-
 
 20) https://www.geeksforgeeks.org/find-the-element-before-which-all-the-elements-are-smaller-than-it-and-after-which-all-are-greater-than-it/
 
+21) https://www.geeksforgeeks.org/second-minimum-element-using-minimum-comparisons/ todo-impl *****
+
 
 
