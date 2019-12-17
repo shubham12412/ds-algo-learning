@@ -33,4 +33,6 @@ https://ide.geeksforgeeks.org/JIPjXW7SM2
 
 14) https://www.geeksforgeeks.org/find-first-repeating-element-array-integers/ simple
 
-15) 
+15) https://www.geeksforgeeks.org/count-1s-sorted-binary-array/
+
+
