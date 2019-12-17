@@ -28,3 +28,5 @@ https://ide.geeksforgeeks.org/JIPjXW7SM2
 11) https://www.geeksforgeeks.org/kth-smallest-element-in-a-row-wise-and-column-wise-sorted-2d-array-set-1/ ***** beauty heap ask-in-interview think-again todo-impl
 
 12) https://www.geeksforgeeks.org/find-k-closest-elements-given-value/  todo-impl simple
+
+13) https://www.geeksforgeeks.org/search-almost-sorted-array/ todo-impl
