@@ -66,5 +66,7 @@ index incremented or decremented in rotational manner (modular arithmetic)
  ```
  
  8) https://www.geeksforgeeks.org/search-an-element-in-an-array-where-difference-between-adjacent-elements-is-1/ 
- 
+
+https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/
+
  
