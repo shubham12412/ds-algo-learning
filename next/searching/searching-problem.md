@@ -59,5 +59,8 @@ https://www.geeksforgeeks.org/find-the-element-that-odd-number-of-times-in-olog-
 https://en.wikipedia.org/wiki/Geometric_median
 
 
+25) https://www.geeksforgeeks.org/minimum-cost-equal-elements-array-using-two-operation/ discuss-again ???
+
+
 
 
