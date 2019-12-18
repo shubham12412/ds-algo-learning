@@ -56,6 +56,8 @@ https://www.geeksforgeeks.org/find-the-element-that-odd-number-of-times-in-olog-
 
 24) https://www.geeksforgeeks.org/make-array-elements-equal-minimum-cost/ beauty think-again discuss-again ask-in-interview *****
 
+https://en.wikipedia.org/wiki/Geometric_median
+
 
 
 
