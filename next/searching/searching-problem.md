@@ -52,6 +52,8 @@ https://www.geeksforgeeks.org/find-the-element-that-odd-number-of-times-in-olog-
 
 22) https://www.geeksforgeeks.org/print-all-possible-consecutive-numbers-with-sum-n/ beauty think-again ******
 
+23) https://www.geeksforgeeks.org/minimum-time-required-produce-m-items/ think-again discuss-again asked-in-interview beauty *****
+
 
 
 
