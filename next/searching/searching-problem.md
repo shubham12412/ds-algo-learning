@@ -62,6 +62,13 @@ https://www.geeksforgeeks.org/minimum-increment-decrement-to-make-array-elements
 
 25) https://www.geeksforgeeks.org/minimum-cost-equal-elements-array-using-two-operation/ discuss-again ???
 
+26) https://www.geeksforgeeks.org/check-exist-two-elements-array-whose-sum-equal-sum-rest-array/
+
+27) https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/ beauty ask-in-interview todo-impl
+
+28) https://www.geeksforgeeks.org/find-triplets-array-whose-sum-equal-zero/ ask-in-interview
+
+29) 
 
 
 
