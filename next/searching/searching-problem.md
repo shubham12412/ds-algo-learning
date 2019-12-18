@@ -72,6 +72,8 @@ https://www.geeksforgeeks.org/minimum-increment-decrement-to-make-array-elements
 
 30) https://www.geeksforgeeks.org/smallest-difference-triplet-from-three-arrays/ ***** beauty
 
+31) https://www.geeksforgeeks.org/best-first-search-informed-search/
+
 
 
 
