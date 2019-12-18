@@ -58,6 +58,7 @@ https://www.geeksforgeeks.org/find-the-element-that-odd-number-of-times-in-olog-
 
 https://en.wikipedia.org/wiki/Geometric_median
 
+https://www.geeksforgeeks.org/minimum-increment-decrement-to-make-array-elements-equal/
 
 25) https://www.geeksforgeeks.org/minimum-cost-equal-elements-array-using-two-operation/ discuss-again ???
 
