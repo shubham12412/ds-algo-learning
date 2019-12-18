@@ -68,7 +68,11 @@ https://www.geeksforgeeks.org/minimum-increment-decrement-to-make-array-elements
 
 28) https://www.geeksforgeeks.org/find-triplets-array-whose-sum-equal-zero/ ask-in-interview
 
-29) 
+29) https://www.geeksforgeeks.org/search-in-an-array-of-strings-where-non-empty-strings-are-sorted/
+
+30) https://www.geeksforgeeks.org/smallest-difference-triplet-from-three-arrays/ ***** beauty
+
+
 
 
 
