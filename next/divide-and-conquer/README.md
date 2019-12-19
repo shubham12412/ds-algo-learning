@@ -10,5 +10,8 @@ https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/
 
 3) https://www.geeksforgeeks.org/write-a-c-program-to-calculate-powxn/
 
-4) https://www.geeksforgeeks.org/closest-pair-of-points-using-divide-and-conquer-algorithm/
+4) https://www.geeksforgeeks.org/closest-pair-of-points-using-divide-and-conquer-algorithm/ \
+https://en.wikipedia.org/wiki/Closest_pair_of_points_problem
+
+
 
