@@ -8,3 +8,5 @@ https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/
 
 2) https://www.geeksforgeeks.org/counting-inversions/
 
+3) https://www.geeksforgeeks.org/write-a-c-program-to-calculate-powxn/
+
