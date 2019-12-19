@@ -15,5 +15,7 @@ https://en.wikipedia.org/wiki/Closest_pair_of_points_problem \
 https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/closepoints.pdf ***** beauty \
 http://people.csail.mit.edu/indyk/6.838-old/handouts/lec17.pdf
 
-https://www.geeksforgeeks.org/closest-pair-of-points-onlogn-implementation/ O(nlogn)
+https://www.geeksforgeeks.org/closest-pair-of-points-onlogn-implementation/ O(nlogn) *****
+
+
 
