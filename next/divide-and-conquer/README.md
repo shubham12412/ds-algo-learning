@@ -12,8 +12,8 @@ https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/
 
 4) https://www.geeksforgeeks.org/closest-pair-of-points-using-divide-and-conquer-algorithm/ \
 https://en.wikipedia.org/wiki/Closest_pair_of_points_problem \
-https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/closepoints.pdf ***** beauty
-
+https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/closepoints.pdf ***** beauty \
+http://people.csail.mit.edu/indyk/6.838-old/handouts/lec17.pdf
 
 
 
