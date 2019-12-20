@@ -22,7 +22,9 @@ https://leetcode.com/problems/the-skyline-problem/ \
 https://www.ideserve.co.in/learn/the-skyline-problem
 
 
+![](https://www.ideserve.co.in/learn/img/skyline_0.png)
 
 
+![](https://www.ideserve.co.in/learn/img/skyline_1.png)
 
 
