@@ -4,7 +4,8 @@ https://blog.anudeep2011.com/mos-algorithm/
 
 
 
-``
+```
+
 currentL = 0
 currentR = 0
 answer = 0
@@ -24,4 +25,5 @@ for each query:
     remove(currentR)
     currentR--
   output answer
-``
+
+```
