@@ -4,4 +4,24 @@ https://blog.anudeep2011.com/mos-algorithm/
 
 
 
-
+``
+currentL = 0
+currentR = 0
+answer = 0
+count[] = 0
+for each query:
+  // currentL should go to L, currentR should go to R
+  while currentL &amp;lt; L:
+    remove(currentL)
+    currentL++
+  while currentL &amp;gt; L:
+    add(currentL)
+    currentL--
+  while currentR &amp;lt; R:
+    add(currentR)
+    currentR++
+  while currentR &amp;gt; R:
+    remove(currentR)
+    currentR--
+  output answer
+``
