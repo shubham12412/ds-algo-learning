@@ -35,3 +35,14 @@ todo check-divide-and-conquer-sol
 7) https://www.geeksforgeeks.org/search-in-a-row-wise-and-column-wise-sorted-2d-array-using-divide-and-conquer-algorithm/ todo-impl
 
 
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
+check later
+
+1) https://www.geeksforgeeks.org/convex-hull-using-divide-and-conquer-algorithm/
+
+2) https://www.geeksforgeeks.org/karatsuba-algorithm-for-fast-multiplication-using-divide-and-conquer-algorithm/
+
+
