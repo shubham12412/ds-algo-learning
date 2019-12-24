@@ -3,6 +3,7 @@ https://blog.anudeep2011.com/mos-algorithm/
 
 https://github.com/anudeep2011/programming/blob/master/DQUERY.cpp
 
+doubts in implementation, todo-impl ???
 
 ```
 
