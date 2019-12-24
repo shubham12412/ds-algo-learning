@@ -9,6 +9,11 @@ A query belongs to P’th block if the opening of that query fall in P’th bloc
 
 From now, I will ignore about all the blocks and only focus on how we query and answer block 1. We will similarly do for all blocks. All of these queries have their opening in block 1, but their closing can be in any block including block 1. Now let us reorder these queries in ascending order of their R value. We do this for all the blocks.
 
+How does the final order look like?
+All the queries are first ordered in ascending order of their block number (block number is the block in which its opening falls). Ties are ordered in ascending order of their R value.
+
+
+
 
 
 ```
