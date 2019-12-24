@@ -45,4 +45,6 @@ check later
 
 2) https://www.geeksforgeeks.org/karatsuba-algorithm-for-fast-multiplication-using-divide-and-conquer-algorithm/
 
+3) https://www.geeksforgeeks.org/quickhull-algorithm-convex-hull/
+
 
