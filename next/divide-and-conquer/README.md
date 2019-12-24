@@ -30,3 +30,6 @@ todo check-divide-and-conquer-sol
 ![](https://www.ideserve.co.in/learn/img/skyline_1.png)
 
 
+6) https://www.geeksforgeeks.org/maximum-subarray-sum-using-divide-and-conquer-algorithm/
+
+
