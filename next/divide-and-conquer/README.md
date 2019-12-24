@@ -32,4 +32,6 @@ todo check-divide-and-conquer-sol
 
 6) https://www.geeksforgeeks.org/maximum-subarray-sum-using-divide-and-conquer-algorithm/
 
+7) https://www.geeksforgeeks.org/search-in-a-row-wise-and-column-wise-sorted-2d-array-using-divide-and-conquer-algorithm/
+
 
