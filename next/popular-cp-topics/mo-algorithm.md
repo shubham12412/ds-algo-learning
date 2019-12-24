@@ -5,6 +5,9 @@ https://github.com/anudeep2011/programming/blob/master/DQUERY.cpp
 
 https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-1-introduction/
 
+https://www.geeksforgeeks.org/distinct-elements-subarray-using-mos-algorithm/
+
+
 doubts in implementation, todo-impl ???
 
 ```
