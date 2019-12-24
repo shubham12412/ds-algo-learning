@@ -41,4 +41,21 @@ All the queries are first ordered in ascending order of their block number (bloc
 ***Now we use the same code stated in previous section and solve the problem. Above algorithm is correct as we did not do any changes but just reordered the queries.***
 
 
+---------------------------------------------------------------------------------------------------------------------
+
+
+***Explain where and when we can use above algorithm***
+
+As mentioned, this algorithm is offline, that means we cannot use it when we are forced to stick to given order of queries. 
+
+That also means we cannot use this when there are update operations. Not just that, there is one important possible limitation: We should be able to write the functions add and remove. 
+
+There will be many cases where add is trivial but remove is not. One such example is where we want maximum in a range. As we add elements, we can keep track of maximum. But when we remove elements it is not trivial. Anyways in that case we can use a set to add elements, remove elements and report minimum. In that case the add and delete operations are O(log N) (Resulting in O(N * Sqrt(N) * log N) algorithm).
+
+There are many cases where we can use this algorithm. In few cases we can also use other Data Structures like segment trees, but for few problems using MO’s algorithm is a must.
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+
 
