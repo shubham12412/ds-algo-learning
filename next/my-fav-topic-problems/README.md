@@ -76,3 +76,11 @@ https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-s
 
 9) check if array can represent arithmetic progression \
 https://www.geeksforgeeks.org/check-whether-arithmetic-progression-can-formed-given-array/
+
+
+10) max sum subarray
+
+https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/ \
+https://www.geeksforgeeks.org/maximum-subarray-sum-using-divide-and-conquer-algorithm/
+
+
