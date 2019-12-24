@@ -1,2 +1,4 @@
-1) https://blog.anudeep2011.com/mos-algorithm/
+1) MO Algorithm (Square root decomposition)
+
+https://blog.anudeep2011.com/mos-algorithm/
 
