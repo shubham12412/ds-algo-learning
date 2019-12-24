@@ -84,3 +84,8 @@ https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/ \
 https://www.geeksforgeeks.org/maximum-subarray-sum-using-divide-and-conquer-algorithm/
 
 
+11) search in rowwise and columnwise sorted matrix
+
+https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/ \
+https://www.geeksforgeeks.org/search-in-a-row-wise-and-column-wise-sorted-2d-array-using-divide-and-conquer-algorithm/
+
