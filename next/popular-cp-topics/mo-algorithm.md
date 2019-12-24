@@ -3,6 +3,8 @@ https://blog.anudeep2011.com/mos-algorithm/
 
 https://github.com/anudeep2011/programming/blob/master/DQUERY.cpp
 
+https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-1-introduction/
+
 doubts in implementation, todo-impl ???
 
 ```
