@@ -13,4 +13,6 @@ https://github.com/shubham12412/ds-algo-learning/blob/master/next/code/NQueenPro
 
 1) https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/ \
 
+2) https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/
+
 
