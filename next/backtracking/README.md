@@ -1,3 +1,5 @@
+https://en.wikipedia.org/wiki/Backtracking
+
 https://www.geeksforgeeks.org/backtracking-algorithms/
 
 N Queen Problem : codeblock youtube sol \
