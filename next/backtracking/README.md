@@ -11,6 +11,9 @@ https://codingblocks.com/resources/n-queen/
 
 https://github.com/shubham12412/ds-algo-learning/blob/master/next/code/NQueenProblem.java
 
+http://ee.usc.edu/~redekopp/cs104/slides/L18b_BacktrackingSearch.pdf
+
+
 ----------------------------------------------------------------------------------------------------------------
 
 1) https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/ \
