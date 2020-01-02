@@ -13,6 +13,7 @@ https://github.com/shubham12412/ds-algo-learning/blob/master/next/code/NQueenPro
 
 http://ee.usc.edu/~redekopp/cs104/slides/L18b_BacktrackingSearch.pdf
 
+https://www.cs.utexas.edu/~scottm/cs314/handouts/slides/Topic13RecursiveBacktracking.pdf
 
 ----------------------------------------------------------------------------------------------------------------
 
