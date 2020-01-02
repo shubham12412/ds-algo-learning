@@ -15,6 +15,8 @@ http://ee.usc.edu/~redekopp/cs104/slides/L18b_BacktrackingSearch.pdf
 
 https://www.cs.utexas.edu/~scottm/cs314/handouts/slides/Topic13RecursiveBacktracking.pdf
 
+https://www.cpp.edu/~ftang/courses/CS331/notes/backtracking.pdf
+
 ----------------------------------------------------------------------------------------------------------------
 
 1) https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/ \
