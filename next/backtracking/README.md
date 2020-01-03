@@ -1,5 +1,7 @@
 https://en.wikipedia.org/wiki/Backtracking
 
+https://medium.com/leetcode-patterns/leetcode-pattern-3-backtracking-5d9e5a03dc26
+
 https://www.geeksforgeeks.org/backtracking-algorithms/
 
 N Queen Problem : codeblock youtube sol \
