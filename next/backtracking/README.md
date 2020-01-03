@@ -23,4 +23,11 @@ https://www.cpp.edu/~ftang/courses/CS331/notes/backtracking.pdf
 
 2) https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/
 
+3) https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/
+
+4) https://medium.com/leetcode-patterns/leetcode-pattern-3-backtracking-5d9e5a03dc26 \
+https://www.geeksforgeeks.org/subset-sum-backtracking-4/
+
+
+
 
